@@ -28,6 +28,7 @@
 		/datum/job/colonist_mayor,\
 		/datum/job/police,\
 		/datum/job/police_chief,\
+		/datum/job/covenant/huragok,\
 		/datum/job/covenant/AI,\
 		/datum/job/covenant/sangheili_minor,\
 		/datum/job/covenant/sangheili_major,\
@@ -43,6 +44,10 @@
 		/datum/job/covenant/brute_minor,\
 		/datum/job/covenant/brute_major,\
 		/datum/job/covenant/brute_captain,\
+		/datum/job/covenant/yanmee_minor,\
+		/datum/job/covenant/yanmee_major,\
+		/datum/job/covenant/yanmee_ultra,\
+		/datum/job/covenant/yanmee_leader,\
 		/datum/job/ONI_Spartan_II,\
 		)
 
